@@ -1,1 +1,3 @@
 Here's a really cool new file!
+
+My favorite color is red.
